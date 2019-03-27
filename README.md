@@ -1,0 +1,2 @@
+# celery-common
+Celery commons
