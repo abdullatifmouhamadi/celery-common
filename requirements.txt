@@ -1,4 +1,4 @@
 Django==2.1.7
 SQLAlchemy
-celery
+Celery==4.3.0rc3
 psycopg2-binary
